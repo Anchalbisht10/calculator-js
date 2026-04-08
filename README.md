@@ -12,3 +12,9 @@ A basic calculator application built using HTML, CSS, and JavaScript. It perform
 - HTML
 - CSS
 - JavaScript
+
+## Live Demo
+Check out live Project here: 
+[Calculator](https://calculator-js-ten-rho.vercel.app/)
+
+Built by Anchal Bisht
